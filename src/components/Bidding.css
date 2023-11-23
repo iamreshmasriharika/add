@@ -1,0 +1,38 @@
+/* Bidding.css */
+
+.bidding {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bidding h2 {
+    color: #333;
+  }
+  
+  .bidding label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  .bidding input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+  }
+  
+  .bidding button {
+    background-color: #2196f3;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .bidding button:hover {
+    background-color: #0b7dda;
+  }
+  

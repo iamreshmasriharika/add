@@ -1,0 +1,64 @@
+/* ProductAddition.css */
+
+.product-addition {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    
+  }
+  
+  .product-addition h2 {
+    color: #333;
+  }
+  
+  .product-addition label {
+   
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  .product-addition input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .product-addition .input-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 12px;
+  }
+  
+  .product-addition .input-container input {
+    margin-bottom: 8px;
+  }
+  
+  .product-addition input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .product-addition button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .product-addition button:hover {
+    background-color: #45a049;
+  }
+  
